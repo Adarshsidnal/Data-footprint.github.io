@@ -1,4 +1,4 @@
-# Data-footprint.github.io
+# Data footprint
 portfolio showcasing efficient data footprint reduction strategies through the implementation of optimized data structures and algorithms.
 
 <dl>
