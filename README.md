@@ -77,9 +77,9 @@ footer {
 
     <section>
         <h2>Note:</h2>
+        <p>The page is divided into five major sections</p>
         <ul>
             <li>Introduction</li>
-            <li>Why Portfolio</li>
             <li>Objectives</li>
             <li>Design</li>
             <li>Challenges</li>
